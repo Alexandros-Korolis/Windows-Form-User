@@ -1,1 +1,1 @@
-# Asikisi1.1
+This is a user info form . User needs to provide his first name , last name , phone and e-mail. Otherwise, a relevant message will appear in the placeholder. After , the user provides his info , by clicking the button , all his data will transfered in a new text box.
